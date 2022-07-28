@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+ul {
+  padding: 0px;
+}
+
+li {
+  margin: 0.25em;
+  padding: 0.25em;
+  background-color: beige;
+  list-style: none;
+}
